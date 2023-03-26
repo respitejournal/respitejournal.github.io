@@ -1,0 +1,31 @@
+hr.solid {
+    border-top: 8px solid #000000;
+    margin: 10px 50px 10px 50px;
+}
+
+body {
+    font-family: "EB Garamond", serif;
+    margin: 50px 50px;
+    background-image: url('banner2.jpeg');
+}
+
+.container {
+    margin: 20px 50px;
+    background-color: honeydew;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 20px 16px 0px 16px;
+    text-decoration: none;
+}
+
+.top-left {
+    position: fixed;
+}
